@@ -9,7 +9,20 @@ background-attachment: fixed;
 
 h1 {
     font-family: 'Cinzel Decorative';
-    font-size: 50px;
+    font-size: 100px;
     color: goldenrod;
     text-shadow: 3px 3px 5px grey;
+}
+
+#about-box {
+    background-color: rgba(104, 104, 104, 0.8);
+    border: 2px solid rgb(63, 63,63);
+    padding: 10px;
+    color: white;
+    text-shadow: 3px 3px 5px black;
+}
+
+#rules-title {
+    color: black;
+    font-size: 25px;
 }
