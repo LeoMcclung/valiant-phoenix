@@ -3,9 +3,10 @@
 module.exports = {
 
   development: {
-    client: 'sqlite3',
+    client: 'pg',
     connection: {
-      filename: './dev.sqlite3'
+      host: 'localhost',
+      database: 'valiant-phoenix'
     }
   },
 
