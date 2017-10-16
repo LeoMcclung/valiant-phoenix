@@ -1,0 +1,25 @@
+{
+  "name": "valiant-phoenix",
+  "version": "1.0.0",
+  "description": "website for valiant phoenix comp group",
+  "main": "home.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xaishinn/valiant-phoenix.git"
+  },
+  "author": "Leo Mcclung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xaishinn/valiant-phoenix/issues"
+  },
+  "homepage": "https://github.com/xaishinn/valiant-phoenix#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "handlebars": "^4.0.10",
+    "knex": "^0.13.0",
+    "nodemon": "^1.12.1"
+  }
+}
